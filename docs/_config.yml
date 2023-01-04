@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 
-title: "COMP 190"
-description: "Tools and Techniques for Software Development - Dickinson College"
+title: "COMP 290"
+description: "Large-scale and Open Source Software Development - Dickinson College"
 
 hide_first_title: true
 show_downloads: false
