@@ -1,4 +1,4 @@
-## Syllabus
+## COMP 290 Syllabus
 
 ### Course Description
 
@@ -27,6 +27,14 @@ Students will:
 ### Community and Inclusivity
 
 All members of this class are equally valued members of our course community. The insructor aims to create an *inclusive atmosphere* in which we can listen and speak in ways that are respectful of each other and our diversity of heritages, idedenitites, experiences, knowledge and views. All questions will be accepted and treated with kindness. Some topics will push us to develop new ideas and opinions about things we may not have thought about before. The instructor aims to promote a *generous atmosphere*. One where we listen and speak to understand. One where all are given the benefit of the doubt as they try out new and partially formed thoughts and opinions. One where we respond to and critique statements and ideas, not individuals.  If you feel at any time that these ideals are not being met or have ways that our course atmosphre can be improved you are encouraged to reach out to the instructor.  In cases where talking with the instructor is not comfortable please contact your advisor, the Department Chair or another trusted College offical for guidiance.
+
+### Communications
+
+All communications outside of in person meetings will occur via Teams, Zulip or GitHub. Communication in public channels is preferred.  However, sensitive conversations should be initiated as a private chat. Please do not send e-mails.
+
+### Office Hours
+
+A list of my office hours and availability is provided on my home page (https://users.dickinson.edu/~braught/). If you have conflicts with my regularly scheduled office hours or would like to schedule a separate meeting please message me on Teams. Please do not send e-mails.
 
 ### Course Structure
 
