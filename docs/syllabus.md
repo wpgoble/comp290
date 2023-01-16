@@ -1,4 +1,4 @@
-## COMP 290 Syllabus
+## COMP 290-01 Syllabus
 
 ### Course Description
 

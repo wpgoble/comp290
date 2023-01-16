@@ -7,11 +7,13 @@
 - [Course Moodle](https://lms.dickinson.edu/course/view.php?id=49540)
 - [Microsoft Team](https://teams.microsoft.com/l/team/19%3aYaQf0RYT9gPl8q80pva4xeQVZzDE0fWZISJNhuF0o_Q1%40thread.tacv2/conversations?groupId=371f8ff2-ece1-407c-858b-c156c34b5e1c&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
 - [FarmData2 Zulip Chat](https://farmdata2.zulipchat.com/)
+
+- [COMP290 FarmData2 Fork](https://github.com/Dickinson-comp290/FD2-COMP290-Spring23)
 - [FarmData2 GitHub Repository](https://github.com/DickinsonCollege/FarmData2)
 
 ## COMP 290 Outline
 
-Date            | Class Information                                                       | Homework             | Reading
+Date            | Class Information                                                       | Assignment           | Reading
 ----------------|-------------------------------------------------------------------------|----------------------|--------------------
                 | **FarmData2 and Web Development**                                       |
 W 01/25/23      | C01 - Developer Installation                  <!-- [ [Slides][s01] ]--> | <!-- [HW01][hw01]--> | <!--[What is open source?](https://opensource.com/resources/what-open-source) -->
@@ -36,6 +38,7 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> Team Presentations.            
 <!--
 [s01]: 
 [hw01]: 
+
 -->
 
 ---
