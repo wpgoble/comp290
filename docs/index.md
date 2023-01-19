@@ -14,9 +14,9 @@
 
 ## COMP 290 Outline
 
-Date            | Class Information                                                | Assignment     | Reading
-----------------|------------------------------------------------------------------|----------------|------------
-                | **FarmData2 and Web Development**                                |                |
+Date            | Class Information                                                | Assignment                 | Reading
+----------------|------------------------------------------------------------------|----------------------------|------------
+                | **FarmData2 and Web Development**                                |                            |
 W 01/25/23      | C01 - Developer Installation                  [ [Slides][s01] ]  | [HW01][hw01] (Due: 02/01)  | [Producing Open Source Software: Introduction][r01]
 W 02/01/23      | C02 - HTML                                    <!-- [ [Slides][s02] ]--> | <!-- [HW02][hw02] (Due: 02/08)--> | 
 W 02/08/23      | C03 - Vue Data Binding                        <!-- [ [Slides][s03] ]--> | <!-- [HW03][hw03] (Due: 02/15)--> | 
