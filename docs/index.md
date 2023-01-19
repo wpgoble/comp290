@@ -1,5 +1,6 @@
 ## COMP 290 Course Information
 - Spring Semester 2023
+  - Section 01
   - W 1:30-2:45, Tome 231
 - [Syllabus & Course Information](syllabus.md)
 - [Prof. Braught's Page](http://users.dickinson.edu/~braught/) - with office hours.
@@ -8,18 +9,18 @@
 - [Microsoft Team](https://teams.microsoft.com/l/team/19%3aYaQf0RYT9gPl8q80pva4xeQVZzDE0fWZISJNhuF0o_Q1%40thread.tacv2/conversations?groupId=371f8ff2-ece1-407c-858b-c156c34b5e1c&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
 - [FarmData2 Zulip Chat](https://farmdata2.zulipchat.com/)
 
-- [COMP290 FarmData2 Fork](https://github.com/Dickinson-comp290/FD2-COMP290-Spring23)
+- [FD2School-FarmData2 Fork](https://github.com/DickinsonCollege/FD2School-FarmData2)
 - [FarmData2 GitHub Repository](https://github.com/DickinsonCollege/FarmData2)
 
 ## COMP 290 Outline
 
-Date            | Class Information                                                       | Assignment           | Reading
-----------------|-------------------------------------------------------------------------|----------------------|--------------------
-                | **FarmData2 and Web Development**                                       |
-W 01/25/23      | C01 - Developer Installation                  <!-- [ [Slides][s01] ]--> | <!-- [HW01][hw01]--> | <!--[What is open source?](https://opensource.com/resources/what-open-source) -->
+Date            | Class Information                                                | Assignment     | Reading
+----------------|------------------------------------------------------------------|----------------|------------
+                | **FarmData2 and Web Development**                                |                |
+W 01/25/23      | C01 - Developer Installation                  [ [Slides][s01] ]  | [HW01][hw01]   | [What is open source?](https://opensource.com/resources/what-open-source)
 W 02/01/23      | C02 - HTML                                    <!-- [ [Slides][s02] ]--> | <!-- [HW02][hw02]--> | 
 W 02/08/23      | C03 - Vue Data Binding                        <!-- [ [Slides][s03] ]--> | <!-- [HW03][hw03]--> | 
-W 02/15/23      | C04 - Vue Events and Javascript Functions     <!-- [ [Slides][s04] ]--> | <!-- [HW04][hw04]--> | 
+W 02/15/23      | C04 - Farm Visit<br>Vue Events and Javascript Functions     <!-- [ [Slides][s04] ]--> | <!-- [HW04][hw04]--> | 
 W 02/22/23      | C05 - Web APIs                                <!-- [ [Slides][s05] ]--> | <!-- [HW05][hw05]--> | 
 W 03/01/23      | C06 - FarmData2 API Functions                 <!-- [ [Slides][s06] ]--> | <!-- [HW06][hw06]--> | 
 W 03/08/23      | C07 - FarmData2 Pages and Patterns            <!-- [ [Slides][s07] ]--> | <!-- [HW07][hw07]--> | 
@@ -35,11 +36,8 @@ W 05/03/23      | C14 - Project Work                                            
 &nbsp;          |                                                                         |                      |
 Tue 05/16/23    | **2:00pm Final Exam Slot**<br> Team Presentations.                      |                      |
 
-<!--
-[s01]: 
-[hw01]: 
-
--->
+[s01]: materials/01-S-Install.pptx
+[hw01]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/2
 
 ---
 
