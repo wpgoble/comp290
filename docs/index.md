@@ -18,7 +18,7 @@ Date            | Class Information                                             
 ----------------|------------------------------------------------------------------|----------------------------|------------
                 | **FarmData2 and Web Development**                                |                            |
 W 01/25/23      | C01 - Developer Installation                  [ [Slides][s01] ]  | [HW01][hw01] (Due: 02/01)  | [Producing Open Source Software: Introduction][r01]
-W 02/01/23      | C02 - HTML                                    <!-- [ [Slides][s02] ]--> | <!-- [HW02][hw02] (Due: 02/08)--> | 
+W 02/01/23      | C02 - HTML                                    [ [Slides][s02] ]  | [HW02][hw02] (Due: 02/08)  | [Why Open Source Misses the Point of Free Software][r02]
 W 02/08/23      | C03 - Vue Data Binding                        <!-- [ [Slides][s03] ]--> | <!-- [HW03][hw03] (Due: 02/15)--> | 
 W 02/15/23      | C04 - Farm Visit<br>Vue Events and Javascript Functions     <!-- [ [Slides][s04] ]--> | <!-- [HW04][hw04] (Due: 02/22)--> | 
 W 02/22/23      | C05 - Web APIs                                <!-- [ [Slides][s05] ]--> | <!-- [HW05][hw05] (Due: 03/01)--> | 
@@ -39,6 +39,10 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> Team Presentations.            
 [s01]: materials/01-S-Install.pptx
 [hw01]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/2
 [r01]: https://lms.dickinson.edu/mod/resource/view.php?id=1163831
+
+[s02]: materials/02-HTMLSpike-S-Install.pptx
+[hw02]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/4
+[r02]: https://www.gnu.org/philosophy/open-source-misses-the-point.en.html
 
 ---
 
