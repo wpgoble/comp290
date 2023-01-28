@@ -40,7 +40,7 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> Team Presentations.            
 [hw01]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/2
 [r01]: https://lms.dickinson.edu/mod/resource/view.php?id=1163831
 
-[s02]: materials/02-HTMLSpike-S-Install.pptx
+[s02]: materials/02-S-HTML.pptx
 [hw02]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/4
 [r02]: https://www.gnu.org/philosophy/open-source-misses-the-point.en.html
 
