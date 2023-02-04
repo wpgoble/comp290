@@ -44,6 +44,9 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> Team Presentations.            
 [hw02]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/4
 [r02]: https://www.gnu.org/philosophy/open-source-misses-the-point.en.html
 
+[s03]: materials/03-S-VueDataBinding.pptx
+[hw03]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/10
+
 ---
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
