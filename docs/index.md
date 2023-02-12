@@ -21,7 +21,7 @@ W 01/25/23      | C01 - Developer Installation                             [ [Sl
 W 02/01/23      | C02 - HTML                                               [ [Slides][s02] ]  | [HW02][hw02] (Due: 02/08)  | [Why Open Source Misses the Point of Free Software][r02]
 W 02/08/23      | C03 - Vue Data Binding                                   [ [Slides][s03] ]  | [HW03][hw03] (Due: 02/15)  | No assigned reading. 
 W 02/15/23      | C04 - Farm Visit<br>Vue Events and Javascript Functions  [ [Slides][s04] ]  | [HW04][hw04] (Due: 02/22)  | [Producing Open Source Software: Communications][r04]<br>Stop before "Avoiding Common Pitfalls" on pg. 123.
-W 02/22/23      | C05 - Web APIs                                    <!-- [ [Slides][s05] ]--> | <!-- [HW05][hw05] (Due: 03/01)--> | [Producing Open Source Software: Communications][r04]<br>Start at "Avoiding Common Pitfalls", stop before "Handling Growth" on pg. 131.
+W 02/22/23      | C05 - Web APIs                                    <!-- [ [Slides][s05] ]--> | <!-- [HW05][hw05] (Due: 03/01)--> | [Producing Open Source Software: Communications][r04]<br>Start at "Avoiding Common Pitfalls"<br>Stop before "Handling Growth" on pg. 131.
 W 03/01/23      | C06 - FarmData2 API Functions                     <!-- [ [Slides][s06] ]--> | <!-- [HW06][hw06] (Due: 03/08)--> | 
 W 03/08/23      | C07 - FarmData2 Pages and Patterns                <!-- [ [Slides][s07] ]--> | <!-- [HW07][hw07] (Due: 03/22)--> | 
                 | *Spring Break*                                                              |                            |
