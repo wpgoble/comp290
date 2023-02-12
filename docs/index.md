@@ -49,7 +49,7 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> Team Presentations.            
 
 [s04]: materials/04-S-VueEventsAndJS.pptx
 [hw04]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/36
-[r02]: https://lms.dickinson.edu/mod/resource/view.php?id=1173379
+[r04]: https://lms.dickinson.edu/mod/resource/view.php?id=1173379
 
 ---
 
