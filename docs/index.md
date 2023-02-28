@@ -22,10 +22,10 @@ W 02/01/23      | C02 - HTML                                               [ [Sl
 W 02/08/23      | C03 - Vue Data Binding                                   [ [Slides][s03] ]  | [HW03][hw03] (Due: 02/15)  | No assigned reading. 
 W 02/15/23      | C04 - Farm Visit<br>Vue Events and Javascript Functions<br>[ [Slides][s04] - [Video][v04]]  | [HW04][hw04] (Due: 02/22)  | [Producing Open Source Software: Communications][r04]<br>Stop before "Avoiding Common Pitfalls" on pg. 123.
 W 02/22/23      | C05 - Web APIs                                           [ [Slides][s05] ]  | [HW05][hw05] (Due: 03/01)  | [Producing Open Source Software: Communications][r04]<br>Start at "Avoiding Common Pitfalls"<br>Stop before "Handling Growth" on pg. 131.
-W 03/01/23      | C06 - FarmData2 API Functions                     <!-- [ [Slides][s06] ]--> | <!-- [HW06][hw06] (Due: 03/08)--> | 
-W 03/08/23      | C07 - FarmData2 Pages and Patterns                <!-- [ [Slides][s07] ]--> | <!-- [HW07][hw07] (Due: 03/22)--> | 
+W 03/01/23      | C06 - FarmData2 API Functions                            [ [Slides][s06] ]  | [HW06][hw06] (Due: 03/08)  | [TBA]()
+W 03/08/23      | C07 - End-To-End Testing with Cypress             <!-- [ [Slides][s07] ]--> | <!-- [HW07][hw07] (Due: 03/22)--> | 
                 | *Spring Break*                                                              |                            |
-W 03/22/23      | C08 - End-To-End Testing with Cypress             <!-- [ [Slides][s08] ]--> | <!-- [HW08][hw08] (Due: 03/29)--> | 
+W 03/22/23      | C08 - FarmData2 Pages and Patterns                <!-- [ [Slides][s08] ]--> | <!-- [HW08][hw08] (Due: 03/29)--> | 
                 | **Team Based Project Work**                                                 |                            |
 W 03/29/23      | C09 - Writing User Stories (WiD)                  <!-- [ [Slides][s09] ]--> | <!-- [HW09][hw09] (Due: 04/05)--> | 
 W 04/05/23      | C10 - Breaking User Stories into Tasks (WiD)      <!-- [ [Slides][s10] ]--> | <!-- [HW01][hw10] (Due: 04/12)--> | 
@@ -54,6 +54,10 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> Team Presentations.            
 
 [s05]: materials/05-S-APIs.pptx
 [hw05]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/44
+
+[s06]: materials/06-S-FarmOSAPI.pptx
+[hw06]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/85
+
 ---
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
