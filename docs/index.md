@@ -55,7 +55,7 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> Team Presentations.            
 [s05]: materials/05-S-APIs.pptx
 [hw05]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/44
 
-[s06]: materials/06-S-FarmOSAPI.pptx
+[s06]: materials/06-S-FarmOS-API.pptx
 [hw06]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/85
 [r06]: https://lms.dickinson.edu/mod/resource/view.php?id=1175867
 
