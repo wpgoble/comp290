@@ -27,8 +27,8 @@ W 03/08/23      | C07 - End-To-End Testing with Cypress                    [ [Sl
                 | *Spring Break*                                                              |                            |
 W 03/22/23      | C08 - FarmData2 Components                               [ [Slides][s08] ]  | [HW08][hw08] (Due: 03/29)  | [TBA][r08]
                 | **Team Based Project Work**                                                 |                            |
-W 03/29/23      | C09 - Writing User Stories (WiD)                  <!-- [ [Slides][s09] ]--> | <!-- [HW09][hw09] (Due: 04/05)--> | 
-W 04/05/23      | C10 - Breaking User Stories into Tasks (WiD)      <!-- [ [Slides][s10] ]--> | <!-- [HW01][hw10] (Due: 04/12)--> | 
+W 03/29/23      | C09 - TBA                                         <!-- [ [Slides][s09] ]--> | <!-- [HW09][hw09] (Due: 04/05)--> | 
+W 04/05/23      | C10 - TBA                                         <!-- [ [Slides][s10] ]--> | <!-- [HW01][hw10] (Due: 04/12)--> | 
 W 04/12/23      | C11 - Project Work                                                          |                            |
 W 04/19/23      | C12 - Project Work                                                          |                            |
 W 04/26/23      | C13 - Project Work                                                          |                            |
