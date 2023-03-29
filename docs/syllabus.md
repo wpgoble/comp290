@@ -70,9 +70,9 @@ Following each Introductory Presentation, you will complete a collection of acti
 
 Team team project work will consist of the following elements:
 
-* Weekly Team 5-15 Reports: Each team will submit a [5-15 report](https://co2partners.com/515-report-increasing-effectiveness-200-percent/) summarizing and reflecting on the team's accomplishments, priorities, challenges and lessons learned for the week.
-* Weekly Demo: Each class period during the project work period will include time for each team to give a 10-12 minute demonstration of what they have accomplished during the week and to present any challenges they are facing for feedback and discussion.
-* Repository Code Commits: Teams are expected to make regular commits of their work. push them to their fork of the project and to make pull requests to the upstream repository as appropriate.
+* Weekly Team Meetings: Each class period during the project work period will include time for each team to have a 10-15 minute meeting with the instructor to demonstrate of what they have accomplished during the week and to present any challenges they are facing for feedback and discussion.
+* Repository Code Commits: Individuals and teams are expected to make regular commits of their work. push them to their fork of the project and to make pull requests to the upstream repository as appropriate.
+* WiD: The writing in the discipline assignment will occur during the project work in the course and will require students to post a technical question to a project communication channel.
 * Final Presentation: Each team will give a 20 minute presentation during the final exam period describing and demonstrating the team's accomplishments, challenges and reflecting on lessons learned.
 
 ### Grading
@@ -102,6 +102,10 @@ A Homework Activity receiving a score of 1 or 0 may be (re)submitted **once with
 You will receive a score each week during the project work using the following rubric:
 
 ![Project Work Rubric. Team Meeting: 3 points - Present and engaged; Participated equally in the meeting; Communicated Individual and team accomplishments and challenges  thoughtfully, accurately and clearly; Demo showed convincing evidence of appropriate effort and progress. 2 points - Present; Individual participated in meeting; Communicated Individual and team accomplishments and challenges; Demo shows evidence of effort and possibly progress. 1 point - Present but possibly disengaged; Individual did not participate or participated minimally in the meeting; Individual and/or team accomplishments were minimal or unclear. Demo shows little evidence of effort and no progress. 0 points - Absent; Individual did not participate in the meeting; Individual and/or team accomplishments were absent. Demo shows no evidence of effort or progress. Commits: 3 points - Individual has authored or co-authored one or more commits; Commits reflect cohesive units of work; Commit messages are descriptive;  Commits merged into team's feature branch; PR for team's feature branch is clear and well written. 2 points - Individual has authored or co-authored at least one commit; Commits and commit messages are acceptable; Commits merged into team's feature branch; PR has been made for team's feature branch. 1 point - Individual may have authored or co-authored at least one commit; Commit is not cohesive; Commit message is perfunctory; Commit has not been merged into team's feature branch; Or PR has not been made for team's feature branch. 0 points - There is no evidence that the Individual has authored or co-authored a commit.](images/Project-Rubric.jpg)
+
+You will receive a score for the Writing in the Discipline (WiD) assignment using the following rubric:
+
+![WiD Rubric. 3 points - Exceptionally clear well written question following guidelines in the assigned reading; Highly responsive to follow-up requests and/or comments on the question. 2 points - Well written question showing an awareness of the guidelines in the assigned reading; Responsive to follow-up requests and/or comments on the question. 1 point - A question was posted, but shows little effort or awareness of the guidelines in the assigned reading; Unresponsive to follow-up requests and/or comments on the question. 0 points - No question was posted.](images/WiD-Rubric.jpg)
 
 You will receive a score for the final project presentation using the following rubric:
 
