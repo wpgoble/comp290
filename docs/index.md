@@ -27,7 +27,7 @@ W 03/08/23      | C07 - End-To-End Testing with Cypress                    [ [Sl
                 | *Spring Break*                                                              |                            |
 W 03/22/23      | C08 - FarmData2 Components                               [ [Slides][s08] ]  | [HW08][hw08] (Due: 03/29)  | [How to Ask Good Technical Questions][r08]
                 | **Team Based Project Work**                                                 |                            |
-W 03/29/23      | C09 - Project Work                                       [ [Slides][s09] ]  | [Project Work][proj]       | <!--[Disinformation Research Raises Alarms About A.I. Chatbots][r09]-->
+W 03/29/23      | C09 - Project Work                                       [ [Slides][s09] ]  | [Project Work][proj]       | [You can have the Blue Pill or the Red Pill, and We're Out of Blue Pills][r09]
 W 04/05/23      | C10 - Project Work                                                          |                            | <!--[Lawsuit Takes Aim at the Way A.I. Is built][r10]-->
 W 04/12/23      | C11 - Project Work                                                          |                            | <!-- [Creating Just Language Technologies][r11]-->
 W 04/19/23      | C12 - Project Work                                                          |                            | <!-- [I'm a Congressman Who Codes. A.I. Freaks Me Out.][r12]-->
@@ -69,7 +69,7 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> Team Presentations.            
 
 [s09]: materials/09-S-ProjectWork.pptx
 [proj]: materials/09-A-ProjectWork.docx
-[r09]: https://lms.dickinson.edu/mod/resource/view.php?id=1177936
+[r09]: https://lms.dickinson.edu/mod/resource/view.php?id=1178887
 
 <!--
 [r10]: https://lms.dickinson.edu/mod/resource/view.php?id=1177937
