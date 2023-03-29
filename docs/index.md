@@ -71,6 +71,7 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> Team Presentations.            
 [proj]: materials/09-A-ProjectWork.docx
 [r09]: https://lms.dickinson.edu/mod/resource/view.php?id=1177936
 
+<!-->
 [r10]: https://lms.dickinson.edu/mod/resource/view.php?id=1177937
 
 [r11]: https://www.thegoodrobot.co.uk/post/su-lin-blodgett-on-creating-just-language-technologies
@@ -80,6 +81,8 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> Team Presentations.            
 [r13]: https://lms.dickinson.edu/mod/resource/view.php?id=1177939
 
 [r14]: https://lms.dickinson.edu/mod/resource/view.php?id=1177940
+-->
+
 ---
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
