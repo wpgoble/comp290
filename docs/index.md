@@ -67,7 +67,7 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> Team Presentations.            
 [hw08]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/131
 [r08]: https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/
 
-[s09]: maerials/09-S-ProjectWork.pptx
+[s09]: materials/09-S-ProjectWork.pptx
 [proj]: materials/09-A-ProjectWork.docx
 [r09]: https://lms.dickinson.edu/mod/resource/view.php?id=1177936
 
