@@ -115,7 +115,7 @@ You will receive a score for the final project presentation using the following 
 
 In order to receive credit for the course you must meet the following criteria:
 
-![Class Rubric. PAE - Minimum of 30 points, with at most one 0. Homework Activities - Minimum of 15 points, with no 0's. Project Work - Minimum of 10 points, with at most one 0. Final Presentation - Minimum score of 1.](images/Class-Rubric.jpg)
+![Class Rubric. PAE - Minimum of 30 points, with at most one 0. Homework Activities - Minimum of 15 points, with no 0's. Project Work - Minimum of 10 points, with at most one 0. WiD - Minimum score of 1. Final Presentation - Minimum score of 1.](images/Class-Rubric.jpg)
 
 The instructor reserves the right, with notification to the class, to reduce (but not increase) the point totals required for credit (e.g. in the event of a canceled class or a day with no assigned reading.)
 
