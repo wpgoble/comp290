@@ -73,12 +73,9 @@ Tue 05/16/23    | **2:00pm Final Exam Slot**<br> Team Presentations.            
 
 [r10]: https://lms.dickinson.edu/mod/resource/view.php?id=1177937
 [r11]: https://www.thegoodrobot.co.uk/post/su-lin-blodgett-on-creating-just-language-technologies
-
-<!--
-
-
 [r12]: https://lms.dickinson.edu/mod/resource/view.php?id=1177938
  
+<!--
 [r13]: https://lms.dickinson.edu/mod/resource/view.php?id=1177939
 
 [r14]: https://lms.dickinson.edu/mod/resource/view.php?id=1177940
