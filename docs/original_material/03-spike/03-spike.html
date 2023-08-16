@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Vue Data Binding Spike</title>
+    <style>
+    [v-cloak] {
+      display:none;
+    }
+    </style>
+  </head>
+  <body>
+    <div id="vuespike" v-cloak>
+      <h1>{{ pageHeader.toLowerCase() == "yes" ? "yepper!" : "Nope!" }}</h1>
+      <h1>{{ "Like..." + pageHeader + " ...I know." }}</h1>
+      <input type="text" v-model="pageHeader">
+      <p>Names:
+        <UL>
+          <li v-for="name in names">{{ name }}</li>
+        </ul>
+      </p>
+      <p>Cards:
+          <UL>
+            <li v-for="card in cards">{{ card.rank + " of " + card.suit }}</li>
+          </ul>
+      </p>
+    </div>
+
+    <script src="https://unpkg.com/vue@2"></script>
+    <script>
+      let spike = new Vue ({
+        el: "#vuespike",
+        data: {
+          pageHeader: "no",
+          names: [ "joe", "sue", "fran" ],
+          cards: [
+            {suit: "H", rank: "3"},
+            {suit: "S", rank: "K"},
+            {suit: "D", rank: "7"}],
+        }
+      });
+    </script>
+  </body>
+</html>

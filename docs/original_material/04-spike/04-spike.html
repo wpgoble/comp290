@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Vue Data Binding Spike</title>
+    <style>
+    [v-cloak] {
+      display:none;
+    }
+    </style>
+  </head>
+  <body>
+    <div id="vuespike" v-cloak>
+      <h1>{{ pageHeader.toLowerCase() == "yes" ? "yepper!" : "Nope!" }}</h1>
+      <h1>{{ "Like..." + pageHeader + " ...I know." }}</h1>
+      <input type="text" v-model="pageHeader">
+
+      <br><br>
+      <label for="new-name">Name:</label>
+      <input id="new-name" type="text" v-model="newName" @keyup.enter="addName">
+      <button type="button" 
+        :disabled="newName.length == 0" 
+        @click="addName" >Add Name</button>
+      <p>Names:
+        <button type="button" 
+          :disabled="names.length == 0" 
+          @click="names=[ ]">Clear Names</button>
+        <UL>
+          <li v-if="names.length==0">No names yet!</li>
+          <li v-for="(name,index) in names">{{ name + " (" + index + ")" }} 
+            <button type="button" @click="deleteName(index)">Delete</button>
+          </li>
+        </ul>
+      </p>
+      <p>Cards:
+          <button v-if="!showCards" type="button" @click="showCards=true">Show Cards</button>
+          <button v-else type="button" @click="showCards=false">Hide Cards</button>
+          <div v-if="showCards">
+            <label for="new-card">Card:</label>
+            <input id="new-card" type="text" v-model="newCard" @keyup.enter="addCard">
+            <button type="button" @click="addCard">Add Card</button>
+            <UL>
+              <li v-for="card in cards">{{ card.rank + " of " + card.suit }}</li>
+            </ul>
+          </div>
+      </p>
+    </div>
+
+    <script src="https://unpkg.com/vue@2"></script>
+    <script>
+      let spike = new Vue ({
+        el: "#vuespike",
+        data: {
+          pageHeader: "no",
+          names: [  ],
+          newName: "",
+          cards: [
+            {suit: "H", rank: "3"},
+            {suit: "S", rank: "K"},
+            {suit: "D", rank: "7"}],
+          newCard: "",
+          showCards: false,
+        },
+        methods: {
+          addName: function() {
+            if (this.newName != "") {
+              this.names.push(this.newName);
+              this.newName = "";
+            }
+          },
+          addCard: function() {
+            if (this.newCard) {
+              let rank = this.newCard.slice(0,1);
+              let suit = this.newCard.slice(2,3);
+              this.cards.push({rank , suit});
+              this.newCard = "";
+            }
+          },
+          deleteName: function(nameIndex) {
+            this.names.splice(nameIndex, 1);
+          },
+        },
+      });
+    </script>
+  </body>
+</html>
