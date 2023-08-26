@@ -2,7 +2,7 @@
 - Fall Semester 2023
   - Section 01
   - Fri 1:30-2:45, Tome 231
-- [Syllabus & Course Information](syllabus.md)
+- [Syllabus & Course Information](./syllabus.pdf)
 
 - Prof. Goble's Information
     * Email: goblew@dickinson.edu
