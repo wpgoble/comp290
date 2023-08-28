@@ -24,14 +24,14 @@
 Date            | Class Information                                                           | Assignment                 | Reading
 ----------------|-----------------------------------------------------------------------------|----------------------------|------------
                 | **FarmData2 and Web Development**                                           |                            |
-Fri 09/01/23      | C01 - Developer Installation                             [ [Slides][s01] ]  | [HW01][hw01] (Due: 09/08)  | [Producing Open Source Software: Introduction][r01]
-Fri 09/08/23      | C02 - HTML                                               [ [Slides][s02] ]  | [HW02][hw02] (Due: 09/15)  | [Why Open Source Misses the Point of Free Software][r02]
-Fri 09/15/23      | C03 - Vue Data Binding                                   [ [Slides][s03] ]  | [HW03][hw03] (Due: 09/22)  | No assigned reading. 
-Fri 09/22/23      | C04 - Farm Visit<br>Vue Events and Javascript Functions<br>[ [Slides][s04] - [Video][v04]]  | [HW04][hw04] (Due: 09/29)  | [Producing Open Source Software: Communications][r04]<br>Stop before "Avoiding Common Pitfalls" on pg. 123.
-Fri 09/29/23      | C05 - Web APIs                                           [ [Slides][s05] ]  | [HW05][hw05] (Due: 10/06)  | [Producing Open Source Software: Communications][r04]<br>Start at "Avoiding Common Pitfalls"<br>Stop before "Handling Growth" on pg. 131.
-Fri 10/06/23      | C06 - FarmData2 API Functions                            [ [Slides][s06] ]  | [HW06][hw06] (Due: 10/13)  | [A Coming-Out Party for Generative A.I.][r06]
-Fri 10/13/23      | C07 - End-To-End Testing with Cypress                    [ [Slides][s07] ]  | [HW07][hw07] (Due: 10/20)  | [Meet GPT-3: It Has Learned to Code (and Blog and Argue)][r07]
-Fri 10/20/23      | C08 - FarmData2 Components                               [ [Slides][s08] ]  | [HW08][hw08] (Due: 10/27)  | [How to Ask Good Technical Questions][r08]
+Fri 09/01/23      | C01 - Developer Installation                             [ [Slides][s01] ]  | [HW01][goble_hw1] (Due: 09/08)  | [Producing Open Source Software: Introduction][r01]
+Fri 09/08/23      | C02 - HTML                                               [ [Slides][s02] ]  | [HW02][goble_hw2] (Due: 09/15)  | [Why Open Source Misses the Point of Free Software][r02]
+Fri 09/15/23      | C03 - Vue Data Binding                                   [ [Slides][s03] ]  | [HW03][goble_hw3] (Due: 09/22)  | No assigned reading. 
+Fri 09/22/23      | C04 - Farm Visit<br>Vue Events and Javascript Functions<br>[ [Slides][s04] - [Video][v04]]  | [HW04][goble_hw4] (Due: 09/29)  | [Producing Open Source Software: Communications][r04]<br>Stop before "Avoiding Common Pitfalls" on pg. 123.
+Fri 09/29/23      | C05 - Web APIs                                           [ [Slides][s05] ]  | [HW05][goble_hw5] (Due: 10/06)  | [Producing Open Source Software: Communications][r04]<br>Start at "Avoiding Common Pitfalls"<br>Stop before "Handling Growth" on pg. 131.
+Fri 10/06/23      | C06 - FarmData2 API Functions                            [ [Slides][s06] ]  | [HW06][goble_hw6] (Due: 10/13)  | [A Coming-Out Party for Generative A.I.][r06]
+Fri 10/13/23      | C07 - End-To-End Testing with Cypress                    [ [Slides][s07] ]  | [HW07][goble_hw7] (Due: 10/20)  | [Meet GPT-3: It Has Learned to Code (and Blog and Argue)][r07]
+Fri 10/20/23      | C08 - FarmData2 Components                               [ [Slides][s08] ]  | [HW08][goble_hw8] (Due: 10/27)  | [How to Ask Good Technical Questions][r08]
                 | **Team Based Project Work**                                                 |                            |
 Fri 10/27/23      | C09 - Project Work                                       [ [Slides][s09] ]  | [Project Work][proj]       | [You can have the Blue Pill or the Red Pill, and We're Out of Blue Pills][r09]
 Fri 11/03/23      | C10 - Project Work                                                          |                            | [Lawsuit Takes Aim at the Way A.I. Is built][r10]
@@ -46,33 +46,41 @@ Fri 12/15/23    | **2:00pm Final Exam Slot**<br> Team Presentations.            
 [s01]: materials/01-S-Install.pptx
 [hw01]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/2
 [r01]: https://lms.dickinson.edu/mod/resource/view.php?id=1163831
+[goble_hw1]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/2
 
 [s02]: materials/02-S-HTML.pptx
 [hw02]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/4
 [r02]: https://www.gnu.org/philosophy/open-source-misses-the-point.en.html
+[goble_hw2]:https://github.com/DickinsonCollege/FD2School-FarmData2/issues/3
 
 [s03]: materials/03-S-VueDataBinding.pptx
 [hw03]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/10
+[goble_hw3]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/4
 
 [s04]: materials/04-S-VueEventsAndJS.pptx
 [v04]: https://dickinson.zoom.us/rec/play/b7crkDJGu2zZDj8dpM4777gTVy28nR3ipOSe_xUs6Y3p3w_gdf5B9xMJdnaIIbwPiiLfixQBRCCILuuK.mQQe_yfHVhaERKyg?continueMode=true
 [hw04]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/36
 [r04]: https://lms.dickinson.edu/mod/resource/view.php?id=1173379
+[goble_hw4]:https://github.com/DickinsonCollege/FD2School-FarmData2/issues/5
 
 [s05]: materials/05-S-APIs.pptx
 [hw05]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/44
+[goble_hw5]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/6
 
 [s06]: materials/06-S-FarmOS-API.pptx
 [hw06]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/85
 [r06]: https://lms.dickinson.edu/mod/resource/view.php?id=1175867
+[goble_hw6]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/7
 
 [s07]: materials/07-S-Cypress.pptx
 [hw07]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/103
 [r07]: https://lms.dickinson.edu/mod/resource/view.php?id=1176658
+[goble_hw7]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/8
 
 [s08]: materials/08-S-FD2Components.pptx
 [hw08]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/131
 [r08]: https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/
+[goble_hw8]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/9
 
 [s09]: materials/09-S-ProjectWork.pptx
 [proj]: materials/09-A-ProjectWork.docx
