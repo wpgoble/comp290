@@ -17,7 +17,7 @@
 - [FarmData2 Zulip Chat](https://farmdata2.zulipchat.com/)
 
 - [FD2School-FarmData2 Fork](https://github.com/DickinsonCollege/FD2School-FarmData2)
-- [FarmData2 GitHub Repository](https://github.com/DickinsonCollege/FarmData2)
+<!--- [FarmData2 GitHub Repository](https://github.com/DickinsonCollege/FarmData2)-->
 
 ## COMP 290 Outline
 
