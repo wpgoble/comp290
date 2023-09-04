@@ -13,7 +13,7 @@
         * If these times do not work for you, email me to set up a meeting
 
 - [Course Moodle](https://lms.dickinson.edu/course/view.php?id=54015)
-- [Microsoft Team][404]
+- [Microsoft Team](https://teams.microsoft.com/l/team/19%3aM7zZbGPGM4sUsGIgw6sw7Oa_nTWGwRDOgIknpRTjMEA1%40thread.tacv2/conversations?groupId=26ffb994-ea60-4826-a2a9-79aaea44c440&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
 - [FarmData2 Zulip Chat](https://farmdata2.zulipchat.com/)
 
 - [FD2School-FarmData2 Fork](https://github.com/DickinsonCollege/FD2School-FarmData2)
