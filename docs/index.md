@@ -8,7 +8,7 @@
     * Email: goblew@dickinson.edu
     * Office: Tome 245
     * Office Hours:
-        * Mon/Wed: 1:00pm - 2:30pm
+        * Wed: 1:00pm - 2:30pm
         * Tues/Thurs: 10:00am - 11:30am
         * If these times do not work for you, email me to set up a meeting
 
