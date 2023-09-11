@@ -6,6 +6,7 @@
 
 - Prof. Goble's Information
     * Email: goblew@dickinson.edu
+    * GitHub username: __wpgoble__
     * Office: Tome 245
     * Office Hours:
         * Wed: 1:00pm - 2:30pm
