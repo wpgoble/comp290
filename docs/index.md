@@ -60,7 +60,7 @@ Fri 12/15/23    | **2:00pm Final Exam Slot**<br> Team Presentations.            
 [s04]: materials/04-S-VueEventsAndJS.pptx
 [v04]: https://dickinson.zoom.us/rec/play/b7crkDJGu2zZDj8dpM4777gTVy28nR3ipOSe_xUs6Y3p3w_gdf5B9xMJdnaIIbwPiiLfixQBRCCILuuK.mQQe_yfHVhaERKyg?continueMode=true
 [hw04]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/36
-[r04]: https://lms.dickinson.edu/mod/resource/view.php?id=1173379
+[r04]: readings/ProducingOSS.pdf
 [goble_hw4]:https://github.com/DickinsonCollege/FD2School-FarmData2/issues/5
 
 [s05]: materials/05-S-APIs.pptx
@@ -69,28 +69,28 @@ Fri 12/15/23    | **2:00pm Final Exam Slot**<br> Team Presentations.            
 
 [s06]: materials/06-S-FarmOS-API.pptx
 [hw06]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/85
-[r06]: https://lms.dickinson.edu/mod/resource/view.php?id=1175867
+[r06]: readings/Coming-Out.pdf
 [goble_hw6]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/7
 
 [s07]: materials/07-S-Cypress.pptx
 [hw07]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/103
-[r07]: https://lms.dickinson.edu/mod/resource/view.php?id=1176658
+[r07]: readings/MeetGPT-3.pdf
 [goble_hw7]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/8
 
 [s08]: materials/08-S-FD2Components.pptx
 [hw08]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/131
-[r08]: https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/
+[r08]: https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/ 
 [goble_hw8]: https://github.com/DickinsonCollege/FD2School-FarmData2/issues/9
 
 [s09]: materials/09-S-ProjectWork.pptx
 [proj]: materials/09-A-ProjectWork.docx
-[r09]: https://lms.dickinson.edu/mod/resource/view.php?id=1178887
+[r09]:readings/BluePullorRedPill.pdf
 
-[r10]: https://lms.dickinson.edu/mod/resource/view.php?id=1177937
+[r10]: readings/LawsuitChatbot.pdf
 [r11]: https://www.thegoodrobot.co.uk/post/su-lin-blodgett-on-creating-just-language-technologies
-[r12]: https://lms.dickinson.edu/mod/resource/view.php?id=1177938
- 
-[r13]: https://lms.dickinson.edu/mod/resource/view.php?id=1177940
+[r12]: readings/CongressmanAIFreaksMeOut.pdf
+
+[r13]:readings/MetaAdPracticesIllegalEU.pdf
 
 [404]: 404.md
 <!--
