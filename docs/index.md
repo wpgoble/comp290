@@ -28,7 +28,7 @@ Date            | Class Information                                             
 Fri 09/01/23      | C01 - Developer Installation                             [ [Slides][s01] ]  | [HW01][goble_hw1] (Due: 09/08)  | [Producing Open Source Software: Introduction][r01]
 Fri 09/08/23      | C02 - HTML                                               [ [Slides][s02] ]  | [HW02][goble_hw2] (Due: 09/15)  | [Why Open Source Misses the Point of Free Software][r02]
 Fri 09/15/23      | C03 - Vue Data Binding                                   [ [Slides][s03] ]  | [HW03][goble_hw3] (Due: 09/22)  | No assigned reading. 
-Fri 09/22/23      | C04 - Farm Visit<br>Vue Events and Javascript Functions<br>[ [Slides][s04] - [Video][v04]]  | [HW04][goble_hw4] (Due: 09/29)  | [Producing Open Source Software: Communications][r04]<br>Stop before "Avoiding Common Pitfalls" on pg. 123.
+Fri 09/22/23      | C04 - Farm Visit<br>Vue Events and Javascript Functions<br>[ [Slides][s04]  | [HW04][goble_hw4] (Due: 09/29)  | [Producing Open Source Software: Communications][r04]<br>Stop before "Avoiding Common Pitfalls" on pg. 123.
 Fri 09/29/23      | C05 - Web APIs                                           [ [Slides][s05] ]  | [HW05][goble_hw5] (Due: 10/06)  | [Producing Open Source Software: Communications][r04]<br>Start at "Avoiding Common Pitfalls"<br>Stop before "Handling Growth" on pg. 131.
 Fri 10/06/23      | C06 - FarmData2 API Functions                            [ [Slides][s06] ]  | [HW06][goble_hw6] (Due: 10/13)  | [A Coming-Out Party for Generative A.I.][r06]
 Fri 10/13/23      | C07 - End-To-End Testing with Cypress                    [ [Slides][s07] ]  | [HW07][goble_hw7] (Due: 10/20)  | [Meet GPT-3: It Has Learned to Code (and Blog and Argue)][r07]
