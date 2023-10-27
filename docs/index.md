@@ -20,6 +20,11 @@
 - [FD2School-FarmData2 Fork](https://github.com/DickinsonCollege/FD2School-FarmData2)
 <!--- [FarmData2 GitHub Repository](https://github.com/DickinsonCollege/FarmData2)-->
 
+## Standup meeting questions
+1. What did we work on last week?
+2. What will we work on this week?
+3. What challenges/roadblocks did we hit last week?
+
 ## COMP 290 Outline
 
 Date            | Class Information                                                           | Assignment                 | Reading
